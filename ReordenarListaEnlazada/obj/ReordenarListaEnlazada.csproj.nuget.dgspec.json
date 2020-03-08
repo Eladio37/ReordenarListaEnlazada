@@ -1,0 +1,59 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\INTEC\\OneDrive - INTEC\\Trimestre #7\\Estructura de Datos y Algoritmos I - Lab\\ReordenarListaEnlazada\\ReordenarListaEnlazada\\ReordenarListaEnlazada.csproj": {}
+  },
+  "projects": {
+    "D:\\INTEC\\OneDrive - INTEC\\Trimestre #7\\Estructura de Datos y Algoritmos I - Lab\\ReordenarListaEnlazada\\ReordenarListaEnlazada\\ReordenarListaEnlazada.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\INTEC\\OneDrive - INTEC\\Trimestre #7\\Estructura de Datos y Algoritmos I - Lab\\ReordenarListaEnlazada\\ReordenarListaEnlazada\\ReordenarListaEnlazada.csproj",
+        "projectName": "ReordenarListaEnlazada",
+        "projectPath": "D:\\INTEC\\OneDrive - INTEC\\Trimestre #7\\Estructura de Datos y Algoritmos I - Lab\\ReordenarListaEnlazada\\ReordenarListaEnlazada\\ReordenarListaEnlazada.csproj",
+        "packagesPath": "C:\\Users\\eladi\\.nuget\\packages\\",
+        "outputPath": "D:\\INTEC\\OneDrive - INTEC\\Trimestre #7\\Estructura de Datos y Algoritmos I - Lab\\ReordenarListaEnlazada\\ReordenarListaEnlazada\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\eladi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
